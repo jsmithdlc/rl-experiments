@@ -1,2 +1,5 @@
-# rl-experiments
-For experimenting with RL stuff
+# Reinforcement Learning Experiments
+
+## Hugging Face Deep RL Course
+
+Solutions to exercises in [./huggingface](./huggingface/)
